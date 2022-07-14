@@ -19,8 +19,6 @@ An app that shows user current location and offer multiple routes to reach desti
 
 <h3 align="left"> What I Learned</h2>
 
-- How to work with delegates 
-
 - How to set up constraints programmatically 
 
 - Location and routes with MapKit and CoreLocation
